@@ -45,4 +45,3 @@ Now, you are ready to bring your avatar into High Fidelity.
 13. Scroll to the Image section. Click ‘Open' and find the lashes texture named ‘mixamo_eyelashes' you previously downloaded. Click Open Image. ![](image-setting.png)
 14. Check the 'Alpha' options in the following sections: Image, Preview, Texture, Influence
 15. Go to File > External Data > Pack All Into .blend. This will include the texture in your model.
-
